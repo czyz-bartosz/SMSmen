@@ -26,7 +26,7 @@ The server maintain queue of sms to be send. The client app makes get requests t
 
 ### Client
 
-1. Download and install *SmsClient.apk* on Android phone.
+1. Download and install [*SmsClient.apk*](https://github.com/czyz-bartosz/SMSmen/blob/master/SmsClient.apk) on Android phone.
 2. Open app.
 3. Give app permission by clicking button on the app's main screen.
 4. Fill in server ip address with port and click save.
